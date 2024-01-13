@@ -1,76 +1,76 @@
 {
     "hats": [
         {
-            "author": "MXYX-DIY",
+            "author": "\u7c73\u70c1",
             "bounce": "true",
             "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "CatAMail",
+            "name": "CatAMail",
+            "package": "FLIP\u5e3d",
             "resource": "CatAMail.png",
-            "reshasha": "e73a4a986737b8709485631aa325a3cd",
             "flipresource": "CatAMail_flip.png",
-            "reshashbf": "4b1e12bdc51b2cda52e68c300d913767"
+            "reshasha": "e73a4a986737b8709485631aa325a3cd",
+            "reshashf": "4b1e12bdc51b2cda52e68c300d913767"
         },
         {
-            "author": "MXYX-DIY",
+            "author": "\u7c73\u70c1",
             "bounce": "true",
             "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "coffeebath",
-            "resource": "coffeebath.png",
-            "reshasha": "061424226b51a09826fed3655ec3f117"
-        },
-        {
-            "author": "MXYX-DIY",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "congrats",
-            "resource": "congrats.png",
-            "reshasha": "7453a06cdf353b7dc06fd8c81433afc2"
-        },
-        {
-            "author": "MXYX-DIY",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "EatDonut",
+            "name": "EatDonut",
+            "package": "MXYX-DIY",
             "resource": "EatDonut.png",
             "reshasha": "6fc60aac5b0f7943971781e4dcbf4a1c"
         },
         {
-            "author": "MXYX-DIY",
+            "author": "\u7c73\u70c1",
             "bounce": "true",
             "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "fight",
-            "resource": "fight.png",
-            "reshasha": "5c513139c05184ad3364a9a31a6c0447"
-        },
-        {
-            "author": "MXYX-DIY",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "Nyampage",
+            "name": "Nyampage",
+            "package": "MXYX-DIY",
             "resource": "Nyampage.png",
             "reshasha": "af431cb4bd75c0120fddfa9f3c03c129"
         },
         {
-            "author": "MXYX-DIY",
+            "author": "\u7c73\u70c1",
             "bounce": "true",
             "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "Spark!!",
+            "name": "Spark!!",
+            "package": "MXYX-DIY",
             "resource": "Spark!!.png",
             "reshasha": "5d07e0723e44c04991d3d6cf7ea2aad4"
         },
         {
-            "author": "MXYX-DIY",
+            "author": "\u7c73\u70c1",
             "bounce": "true",
             "condition": "None",
-            "name": "\u7c73\u70c1",
-            "package": "\u672a\u82b1",
+            "name": "coffeebath",
+            "package": "MXYX-DIY",
+            "resource": "coffeebath.png",
+            "reshasha": "061424226b51a09826fed3655ec3f117"
+        },
+        {
+            "author": "\u7c73\u70c1",
+            "bounce": "true",
+            "condition": "None",
+            "name": "congrats",
+            "package": "MXYX-DIY",
+            "resource": "congrats.png",
+            "reshasha": "7453a06cdf353b7dc06fd8c81433afc2"
+        },
+        {
+            "author": "\u7c73\u70c1",
+            "bounce": "true",
+            "condition": "None",
+            "name": "fight",
+            "package": "MXYX-DIY",
+            "resource": "fight.png",
+            "reshasha": "5c513139c05184ad3364a9a31a6c0447"
+        },
+        {
+            "author": "\u7c73\u70c1",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u672a\u82b1",
+            "package": "MXYX-DIY",
             "resource": "\u672a\u82b1.png",
             "reshasha": "0f02d4fe365ca705560f44ab2801eef9"
         }
@@ -4029,7 +4029,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "CC",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx4.png",
             "reshasha": "3265b83e4408c07b3e1930b2ace283b1"
         },
@@ -4146,7 +4146,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "U",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx14.png",
             "reshasha": "bb96d735a5f0d5637ee7c206e0643c32"
         },
@@ -4166,7 +4166,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "W",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx16.png",
             "reshasha": "b5a28f0a088545dac8c967765e07fe33"
         },
@@ -4544,7 +4544,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "pipi\u7f8e",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx27.png",
             "reshasha": "78d597061430aca9d40fae2e01761abd"
         },
@@ -4571,7 +4571,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "pop\u5b50",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx26.png",
             "reshasha": "5f30eab0dc107075bd7dd299ea964040"
         },
@@ -4580,7 +4580,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "quest",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx1.png",
             "reshasha": "9561d2b743ec01dc8a9fe2f99d7530b5"
         },
@@ -4589,7 +4589,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "wanhao",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx13.png",
             "reshasha": "4735987e95924e1fd149f8c5b7983fdb"
         },
@@ -5318,7 +5318,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5609\u7136\u60ca\u5413",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx19.png",
             "reshasha": "701834c5201bd4ef0ea51a0991f8fbf3"
         },
@@ -5336,7 +5336,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5609\u7136\u7231\u4f60",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx20.png",
             "reshasha": "f932a95d3ade892a8cfab19756cc5a7b"
         },
@@ -5345,7 +5345,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5669\u68a6-\u8bf6\u591a\u2026",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx5.png",
             "reshasha": "3727ff80d7d422ebf12f4c6c064f15b4"
         },
@@ -5408,7 +5408,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5927\u7f57\u8f91",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx11.png",
             "reshasha": "36dfb27040a5c3789daa91935437aca7"
         },
@@ -5500,7 +5500,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5c0f\u5b64\u72ec",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx15.png",
             "reshasha": "acb822ab85fbb56734c829d08f799f66"
         },
@@ -5563,7 +5563,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5c0f\u7f57\u8f911",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx17.png",
             "reshasha": "609cd45037ead5a513a83e5949b715f6"
         },
@@ -5572,7 +5572,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5c0f\u7f57\u8f912",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx18.png",
             "reshasha": "33a6fc5c3a15a8762efbff41c209b77c"
         },
@@ -5599,7 +5599,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5c71\u6d77\u7684\u7231",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx22.png",
             "reshasha": "1d20ebdb18cde103687a2ea9406d4b6b"
         },
@@ -5815,7 +5815,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u6253\u54a9",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx2.png",
             "reshasha": "c7f5ab9d89bfad59e344bfeb3aaf5c3f"
         },
@@ -6197,7 +6197,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u7075\u98ce",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx25.png",
             "reshasha": "2a91d1ddd2046b1bbefc3da2c0704b4b"
         },
@@ -6485,7 +6485,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u76ee\u529b\u5148\u8f88",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx21.png",
             "reshasha": "7e96c6c471b0a4f5fa6ae153ec9d36ea"
         },
@@ -6593,7 +6593,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u7ea2\u70e7\u725b\u8089\u9762",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx6.png",
             "reshasha": "3fcb07b45a23545b9e464a5f4862f1be"
         },
@@ -6674,7 +6674,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u7f57\u8f91\u559d\u5510",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx10.png",
             "reshasha": "1853f90d2daee519b54a294909bde5b0"
         },
@@ -6838,7 +6838,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u857e\u59c6",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx12.png",
             "reshasha": "37c4641aaa85b40700362a6115085dfd"
         },
@@ -6865,7 +6865,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u8679\u590f",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx9.png",
             "reshasha": "c81f96021b9674cd7382863d5c3f9c4f"
         },
@@ -6883,7 +6883,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u86d9",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx3.png",
             "reshasha": "c3f094c19ca4283d70389af763e35777"
         },
@@ -6990,7 +6990,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u9152\u5ba2",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx7.png",
             "reshasha": "c60b7473f4355219730265436d0ce746"
         },
@@ -7053,7 +7053,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u963f\u7f57\u5a1c-1",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx8.png",
             "reshasha": "e8f58d54de1f5d7e3580ccf8a446869b"
         },
@@ -7089,7 +7089,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u9752\u53f6QAQ",
-            "package": "mxyx-DIY",
+            "package": "MXYX-DIY",
             "resource": "mxyx23.png",
             "reshasha": "9022f923f2947c7b1874fdaf0cc642f6"
         },
