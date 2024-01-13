@@ -7243,45 +7243,45 @@
         {
             "name": "ジャック・オー・ランタン",
             "author": "セオノ",
+            "bounce": true,
             "package": "SNR",
             "condition": "None",
             "resource": "SONjackMain.png",
             "climbresource": "SONjackClimb.png",
             "flipresource": "SONjackFlip.png",
             "backresource": "SONjackBack.png",
-            "backflipresource": "SONjackBackFlip.png",
-            "bounce": true
+            "backflipresource": "SONjackBackFlip.png"
         },
         {
             "name": "スパイダー",
             "author": "セオノ",
+            "adaptive": true,
             "package": "SNR",
             "condition": "None",
             "resource": "SONspiderMain.png",
             "climbresource": "SONspiderClimb.png",
-            "backresource": "SONspiderBack.png",
-            "adaptive": true
+            "backresource": "SONspiderBack.png"
         },
         {
             "name": "フランケンシュタイン",
             "author": "セオノ",
+            "adaptive": true,
             "package": "SNR",
             "condition": "None",
             "resource": "SONfrankenMain.png",
             "climbresource": "SONfrankenClimb.png",
             "flipresource": "SONfrankenFlip.png",
-            "backresource": "SONfrankenBack.png",
-            "adaptive": true
+            "backresource": "SONfrankenBack.png"
         },
         {
             "name": "魔女2",
             "author": "セオノ",
+            "adaptive": true,
             "package": "SNR",
             "condition": "None",
             "resource": "SONwitch02Main.png",
             "climbresource": "SONwitch02Climb.png",
-            "backresource": "SONwitch02Back.png",
-            "adaptive": true
+            "backresource": "SONwitch02Back.png"
         }
     ]
 }
