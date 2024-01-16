@@ -7283,5 +7283,60 @@
             "climbresource": "SONwitch02Climb.png",
             "backresource": "SONwitch02Back.png"
         }
+        ,
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cookie\u3010\u5c0f\u997c\u5e72\u3011",
+            "package": "MXYX-DIY",
+            "resource": "cookie-3.png",
+            "reshasha": "394b41673682f0368fc03f21737a7d4b"
+        },
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5446\u732b\u5f00\u5fc3",
+            "package": "MXYX-DIY",
+            "resource": "cookie-5.png",
+            "reshasha": "8c401096dd799c6a31630ba7858ce46f"
+        },
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5446\u732b\u751f\u6c14",
+            "package": "MXYX-DIY",
+            "resource": "cookie-6.png",
+            "reshasha": "51ab53e589d1d247711b5c6c16c15b19"
+        },
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u591a\u591a\u826f\u5c0f\u4f1e\u3010wink\u3011",
+            "package": "MXYX-DIY",
+            "resource": "cookie-1.png",
+            "reshasha": "5f9beaa9dd5623648cae020489d33762"
+        },
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u6912\u76d0\u3010\u76ef\u3011",
+            "package": "MXYX-DIY",
+            "resource": "cookie-2.png",
+            "reshasha": "308aa4e42862c7e1fa2e2fc15e26582c"
+        },
+        {
+            "author": "cookie",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u963f\u95e8\u7684\u8461\u8404\u3010\u5632\u7b11\u3011",
+            "package": "MXYX-DIY",
+            "resource": "cookie-4.png",
+            "reshasha": "c0fd816c30da8eae2e38a536d074a42e"
+        }
     ]
 }
