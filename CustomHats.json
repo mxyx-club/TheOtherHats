@@ -5611,6 +5611,54 @@
             "reshasha": "47240611b20f8792ed56b8df02fee2be"
         },
         {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u4e50",
+            "package": "Suzume\u9171",
+            "resource": "szm-6.png",
+            "reshasha": "ff1a859f89774099fc00c59f03552cf5"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u5403\u74dc",
+            "package": "Suzume\u9171",
+            "resource": "szm-5.png",
+            "reshasha": "42533be13ad2aa0cf7a98efeeac55c39"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u667a\u6167",
+            "package": "Suzume\u9171",
+            "resource": "szm-10.png",
+            "reshasha": "ac9df25e2623e2a3ab50e016d9dcdb41"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u7ad6\u4e2d\u6307",
+            "package": "Suzume\u9171",
+            "resource": "szm-9.png",
+            "reshasha": "9b5e036955637c7bfda5918e2f87c66a"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u8111\u5b50",
+            "package": "Suzume\u9171",
+            "resource": "szm-8.png",
+            "reshasha": "84e52acef6c0baa83aa8cdbcaa097647"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u840c\u6df7\u8fc7\u5173",
+            "package": "Suzume\u9171",
+            "resource": "szm-7.png",
+            "reshasha": "fdd66f8c63858bbf754755190b45a809"
+        },
+        {
             "author": "\u6708\u697c",
             "condition": "None",
             "name": "\u653b\u51fb\u6027",
@@ -6880,7 +6928,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "CatAMail",
-            "package": "FLIP\u5e3d",
+            "package": "EveOneCat",
             "resource": "CatAMail.png",
             "flipresource": "CatAMail_flip.png",
             "reshasha": "e73a4a986737b8709485631aa325a3cd",
@@ -6890,7 +6938,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "EatDonut",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "EatDonut.png",
             "reshasha": "6fc60aac5b0f7943971781e4dcbf4a1c"
         },
@@ -6898,7 +6946,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "Nyampage",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "Nyampage.png",
             "reshasha": "af431cb4bd75c0120fddfa9f3c03c129"
         },
@@ -6906,7 +6954,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "Spark!!",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "Spark!!.png",
             "reshasha": "5d07e0723e44c04991d3d6cf7ea2aad4"
         },
@@ -6914,7 +6962,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "coffeebath",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "coffeebath.png",
             "reshasha": "061424226b51a09826fed3655ec3f117"
         },
@@ -6922,7 +6970,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "congrats",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "congrats.png",
             "reshasha": "7453a06cdf353b7dc06fd8c81433afc2"
         },
@@ -6930,7 +6978,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "fight",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "fight.png",
             "reshasha": "5c513139c05184ad3364a9a31a6c0447"
         },
@@ -6938,7 +6986,7 @@
             "author": "\u7c73\u70c1",
             "condition": "None",
             "name": "\u672a\u82b1",
-            "package": "MXYX-DIY",
+            "package": "EveOneCat",
             "resource": "mika.png",
             "reshasha": "0f02d4fe365ca705560f44ab2801eef9"
         },
@@ -7282,10 +7330,9 @@
             "resource": "SONwitch02Main.png",
             "climbresource": "SONwitch02Climb.png",
             "backresource": "SONwitch02Back.png"
-        }
-        ,
+        },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "cookie-\u5c0f\u997c\u5e72",
             "package": "\u997c\u5e72\u5c4b",
@@ -7293,7 +7340,7 @@
             "reshasha": "5f9beaa9dd5623648cae020489d33762"
         },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "\u5446\u732b\u751f\u6c14",
             "package": "\u997c\u5e72\u5c4b",
@@ -7301,7 +7348,7 @@
             "reshasha": "394b41673682f0368fc03f21737a7d4b"
         },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "\u5446\u732b\u5f00\u5fc3",
             "package": "\u997c\u5e72\u5c4b",
@@ -7309,7 +7356,7 @@
             "reshasha": "308aa4e42862c7e1fa2e2fc15e26582c"
         },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "\u591a\u591a\u826f\u5c0f\u4f1e-wink",
             "package": "\u997c\u5e72\u5c4b",
@@ -7317,7 +7364,7 @@
             "reshasha": "c0fd816c30da8eae2e38a536d074a42e"
         },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "\u6912\u76d0-\u76ef",
             "package": "\u997c\u5e72\u5c4b",
@@ -7325,12 +7372,76 @@
             "reshasha": "8c401096dd799c6a31630ba7858ce46f"
         },
         {
-            "author": "cookie",
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "\u963f\u95e8\u7684\u8461\u8404-\u5632\u7b11",
             "package": "\u997c\u5e72\u5c4b",
             "resource": "cookie-6.png",
             "reshasha": "51ab53e589d1d247711b5c6c16c15b19"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u51cc\u7a7a\u6307",
+            "package": "KK",
+            "resource": "kk-04.png",
+            "reshasha": "10492577b917931e27392d2306bc24da"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u5200\u5149",
+            "package": "KK",
+            "resource": "kk-01.png",
+            "reshasha": "f513876b7cee12fc012e22c12c6ebab0"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u559c\u5b50",
+            "package": "KK",
+            "resource": "kk-06.png",
+            "reshasha": "011a2919d0be5201eab2d3afd06e2f24"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u5706\u795e",
+            "package": "KK",
+            "resource": "kk-08.png",
+            "reshasha": "be10a2b91f5a4821c48bb44bb7485188"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u7130\u9b54",
+            "package": "KK",
+            "resource": "kk-07.png",
+            "reshasha": "72b5b31286f2e39a7d3b5145660381ab"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u7537\u795e",
+            "package": "KK",
+            "resource": "kk-05.png",
+            "reshasha": "8d3fcc900048b74ed3ccc1fb00f1829e"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u8001\u6210",
+            "package": "KK",
+            "resource": "kk-03.png",
+            "reshasha": "b5f0403b02d26fef6cb3b8faab1f5bd9"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
+            "name": "\u80a5\u9f99",
+            "package": "KK",
+            "resource": "kk-02.png",
+            "reshasha": "0690977e8eb1d61e7c666406f1a37408"
         }
     ]
 }
