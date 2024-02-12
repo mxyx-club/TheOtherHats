@@ -4330,6 +4330,33 @@
             "reshasha": "a5523e929ee8da39947a86a78b4ac511"
         },
         {
+            "author": "\u8482\u55b5\u5636\u5636",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u53ef\u4e3d\u4e1d",
+            "package": "\u8482\u55b5\u5636\u5636",
+            "resource": "Hats003.png",
+            "reshasha": "3f413defc158e4b11f6fa5e428122642"
+        },
+        {
+            "author": "\u8482\u55b5\u5636\u5636",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u67ab\u7cd6",
+            "package": "\u8482\u55b5\u5636\u5636",
+            "resource": "Hats002.png",
+            "reshasha": "c630adb2f896bf0753716540ac3b8a68"
+        },
+        {
+            "author": "\u8482\u55b5\u5636\u5636",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u8c79\u5f0f\u88c5\u7532",
+            "package": "\u8482\u55b5\u5636\u5636",
+            "resource": "Hats001.png",
+            "reshasha": "5b7a0fcd35a9ec2abdaeaf2db667e775"
+        },
+        {
             "author": "So-Minami",
             "condition": "None",
             "name": "\u7a7a\u591c\u9e3d\u9e3d",
