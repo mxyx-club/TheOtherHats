@@ -4386,6 +4386,87 @@
             "reshasha": "a8190106655249b70764abc4de108809"
         },
         {
+            "author": "\u6708\u5149",
+            "bounce": true,
+            "condition": "None",
+            "name": "aa",
+            "package": "\u6708\u5149",
+            "resource": "hats011.png",
+            "reshasha": "45fe57300a677d145e53d402b6fd528d"
+        },
+        {
+            "author": "\u6708\u5149",
+            "bounce": true,
+            "condition": "None",
+            "name": "ss",
+            "package": "\u6708\u5149",
+            "resource": "hats012.png",
+            "reshasha": "6b24470fe13aad6fe48030c29b8c68d0"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u4e50\u5948",
+            "package": "H",
+            "resource": "hats007.png",
+            "reshasha": "0f2659573255d2ede6844ed9b11b78ad"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u706f",
+            "package": "H",
+            "resource": "hats006.png",
+            "reshasha": "f92cd58e7c6de12c6b53c2133adbc26b"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u7231\u97f3",
+            "package": "H",
+            "resource": "hats004.png",
+            "reshasha": "9de8d42c372f13ed83727f648a1c1a9d"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u7231\u97f32",
+            "package": "H",
+            "resource": "hats005.png",
+            "reshasha": "f60c56ea7d8a1d737ab8b7e15b4aeeb1"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u7acb\u5e0c",
+            "package": "H",
+            "resource": "hats008.png",
+            "reshasha": "01c828d2bcf5275c59da9d95d58034c9"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u7d20\u4e16",
+            "package": "H",
+            "resource": "hats009.png",
+            "reshasha": "f84d33c04d5fb2214f73da525e7e0ca6"
+        },
+        {
+            "author": "H",
+            "bounce": true,
+            "condition": "None",
+            "name": "\u7d20\u4e162",
+            "package": "H",
+            "resource": "hats010.png",
+            "reshasha": "6b76c249f8e48f4180b006463e94184b"
+        },
+        {
             "author": "\u8482\u55b5\u5636\u5636",
             "bounce": true,
             "condition": "None",
@@ -4705,12 +4786,12 @@
             "reshasha": "e8f58d54de1f5d7e3580ccf8a446869b"
         },
         {
-            "author": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "author": "\u9ece\u6728",
             "condition": "None",
-            "name": "\u8679\u590f",
+            "name": "\u5669\u68a6-\u8bf6\u591a\u2026",
             "package": "mxyx-DIY",
-            "resource": "mxyx9.png",
-            "reshasha": "c81f96021b9674cd7382863d5c3f9c4f"
+            "resource": "mxyx5.png",
+            "reshasha": "3727ff80d7d422ebf12f4c6c064f15b4"
         },
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
