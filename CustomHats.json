@@ -3960,8 +3960,35 @@
             "author": "\u5c0f\u7231\u540c\u5b66",
             "bounce": "true",
             "condition": "None",
+            "name": "\u4e8c\u4f2f1",
+            "package": "\u5c0f\u7231\u540c\u5b66",
+            "resource": "mxyx30.png",
+            "reshasha": "b6c6acae110a2a1a45abcb44a1746771"
+        },
+        {
+            "author": "\u5c0f\u7231\u540c\u5b66",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4e8c\u4f2f2",
+            "package": "\u5c0f\u7231\u540c\u5b66",
+            "resource": "mxyx31.png",
+            "reshasha": "a52516a6126c6177794df3061fe79435"
+        },
+        {
+            "author": "\u5c0f\u7231\u540c\u5b66",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5403\u94bb\u77f3",
+            "package": "\u5c0f\u7231\u540c\u5b66",
+            "resource": "mxyx28.png",
+            "reshasha": "9752043014f9102a49c7323861ac1d2b"
+        },
+        {
+            "author": "\u5c0f\u7231\u540c\u5b66",
+            "bounce": "true",
+            "condition": "None",
             "name": "\u6bdb\u866b",
-            "package": "MXYX-DIY",
+            "package": "\u5c0f\u7231\u540c\u5b66",
             "resource": "mxyx29.png",
             "reshasha": "76f7e1378d5cc2779b6aca5d39ba8ade"
         },
