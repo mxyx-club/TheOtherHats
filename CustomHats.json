@@ -3958,7 +3958,6 @@
         },
         {
             "author": "\u5c0f\u7231\u540c\u5b66",
-            "bounce": "true",
             "condition": "None",
             "name": "\u4e8c\u4f2f1",
             "package": "\u5c0f\u7231\u540c\u5b66",
@@ -3967,7 +3966,6 @@
         },
         {
             "author": "\u5c0f\u7231\u540c\u5b66",
-            "bounce": "true",
             "condition": "None",
             "name": "\u4e8c\u4f2f2",
             "package": "\u5c0f\u7231\u540c\u5b66",
@@ -3976,7 +3974,6 @@
         },
         {
             "author": "\u5c0f\u7231\u540c\u5b66",
-            "bounce": "true",
             "condition": "None",
             "name": "\u5403\u94bb\u77f3",
             "package": "\u5c0f\u7231\u540c\u5b66",
@@ -3985,7 +3982,6 @@
         },
         {
             "author": "\u5c0f\u7231\u540c\u5b66",
-            "bounce": "true",
             "condition": "None",
             "name": "\u6bdb\u866b",
             "package": "\u5c0f\u7231\u540c\u5b66",
