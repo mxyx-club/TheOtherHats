@@ -4404,6 +4404,14 @@
             "reshasha": "6b24470fe13aad6fe48030c29b8c68d0"
         },
         {
+            "author": "\u9648\u6842\u6797",
+            "condition": "None",
+            "name": "\u9648\u6842\u6797",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats013.png",
+            "reshasha": "63285e992ec416abfce5e4a411d54bf1"
+        },
+        {
             "author": "H",
             "bounce": true,
             "condition": "None",
