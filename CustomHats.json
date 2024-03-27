@@ -4412,6 +4412,30 @@
             "reshasha": "63285e992ec416abfce5e4a411d54bf1"
         },
         {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u6d77\u8299\u7ea6\u5fd2",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats015.png",
+            "reshasha": "62972e26d3cef2701ca4c75bebd602bb"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u6d77\u8299\u7ea6\u5fd2\uff08\u5e26\u5934\u53d1\uff09",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats014.png",
+            "reshasha": "09f98ef82de078a74f304e77273412af"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u8bfa\u683c\u4f69\u52d2",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats016.png",
+            "reshasha": "2d63c3a1402213c9952084d8fc9187fd"
+        },
+        {
             "author": "H",
             "bounce": true,
             "condition": "None",
