@@ -4436,6 +4436,30 @@
             "reshasha": "2d63c3a1402213c9952084d8fc9187fd"
         },
         {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u6ed5\u82b3\u5170",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats017.png",
+            "reshasha": "65b4d7805be33d0ae824235651648a0c"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u795e\u8340\u5f67",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats018.png",
+            "reshasha": "0af501b944760ae0caf5185d8cf2c4e3"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u9b45\u5f71\u5e7d\u5170",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats019.png",
+            "reshasha": "6e5ee320bb44122ff488e8c6da2163dc"
+        },
+        {
             "author": "H",
             "bounce": true,
             "condition": "None",
