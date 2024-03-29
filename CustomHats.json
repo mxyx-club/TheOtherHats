@@ -4460,6 +4460,46 @@
             "reshasha": "6e5ee320bb44122ff488e8c6da2163dc"
         },
         {
+            "author": "\u591c\u6709\u9e22",
+            "condition": "None",
+            "name": "\u4ee4",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats021.png",
+            "reshasha": "040f836d9cc389592184d6727dcc31a7"
+        },
+        {
+            "author": "\u591c\u6709\u9e22",
+            "condition": "None",
+            "name": "\u5915",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats023.png",
+            "reshasha": "5d8364490b2f49f9a2f020729de6f58b"
+        },
+        {
+            "author": "\u591c\u6709\u9e22",
+            "condition": "None",
+            "name": "\u5e74",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats022.png",
+            "reshasha": "e0b5f9998b0f97904354e06074f76f08"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u795e\u90ed\u5609",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats020.png",
+            "reshasha": "21cfff0124ca6db03f497151ac7008e6"
+        },
+        {
+            "author": "\u591c\u6709\u9e22",
+            "condition": "None",
+            "name": "\u91cd\u5cb3",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats024.png",
+            "reshasha": "8818546ba52ffd12bed79b53e64164e3"
+        },
+        {
             "author": "H",
             "bounce": true,
             "condition": "None",
@@ -4840,14 +4880,6 @@
             "package": "mxyx-DIY",
             "resource": "mxyx8.png",
             "reshasha": "e8f58d54de1f5d7e3580ccf8a446869b"
-        },
-        {
-            "author": "\u9ece\u6728",
-            "condition": "None",
-            "name": "\u5669\u68a6-\u8bf6\u591a\u2026",
-            "package": "mxyx-DIY",
-            "resource": "mxyx5.png",
-            "reshasha": "3727ff80d7d422ebf12f4c6c064f15b4"
         },
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
