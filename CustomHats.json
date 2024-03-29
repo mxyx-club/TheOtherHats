@@ -4415,7 +4415,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u6d77\u8299\u7ea6\u5fd2",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats015.png",
             "reshasha": "62972e26d3cef2701ca4c75bebd602bb"
         },
@@ -4423,7 +4423,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u6d77\u8299\u7ea6\u5fd2\uff08\u5e26\u5934\u53d1\uff09",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats014.png",
             "reshasha": "09f98ef82de078a74f304e77273412af"
         },
@@ -4431,7 +4431,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u8bfa\u683c\u4f69\u52d2",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats016.png",
             "reshasha": "2d63c3a1402213c9952084d8fc9187fd"
         },
@@ -4439,7 +4439,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u6ed5\u82b3\u5170",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats017.png",
             "reshasha": "65b4d7805be33d0ae824235651648a0c"
         },
@@ -4447,7 +4447,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u795e\u8340\u5f67",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats018.png",
             "reshasha": "0af501b944760ae0caf5185d8cf2c4e3"
         },
@@ -4455,7 +4455,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u9b45\u5f71\u5e7d\u5170",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats019.png",
             "reshasha": "6e5ee320bb44122ff488e8c6da2163dc"
         },
@@ -4463,7 +4463,7 @@
             "author": "\u591c\u6709\u9e22",
             "condition": "None",
             "name": "\u4ee4",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u591c\u6709\u9e22",
             "resource": "hats021.png",
             "reshasha": "040f836d9cc389592184d6727dcc31a7"
         },
@@ -4471,7 +4471,7 @@
             "author": "\u591c\u6709\u9e22",
             "condition": "None",
             "name": "\u5915",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u591c\u6709\u9e22",
             "resource": "hats023.png",
             "reshasha": "5d8364490b2f49f9a2f020729de6f58b"
         },
@@ -4479,7 +4479,7 @@
             "author": "\u591c\u6709\u9e22",
             "condition": "None",
             "name": "\u5e74",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u591c\u6709\u9e22",
             "resource": "hats022.png",
             "reshasha": "e0b5f9998b0f97904354e06074f76f08"
         },
@@ -4487,7 +4487,7 @@
             "author": "\u9e21\u59d0",
             "condition": "None",
             "name": "\u795e\u90ed\u5609",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
             "resource": "hats020.png",
             "reshasha": "21cfff0124ca6db03f497151ac7008e6"
         },
@@ -4495,7 +4495,7 @@
             "author": "\u591c\u6709\u9e22",
             "condition": "None",
             "name": "\u91cd\u5cb3",
-            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "package": "\u591c\u6709\u9e22",
             "resource": "hats024.png",
             "reshasha": "8818546ba52ffd12bed79b53e64164e3"
         },
