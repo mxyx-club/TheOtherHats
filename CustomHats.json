@@ -4300,6 +4300,54 @@
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
             "condition": "None",
+            "name": "\u6495\u6893\u54a9\u4e50",
+            "package": "Suzume\u9171",
+            "resource": "szm-6.png",
+            "reshasha": "ff1a859f89774099fc00c59f03552cf5"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u5403\u74dc",
+            "package": "Suzume\u9171",
+            "resource": "szm-5.png",
+            "reshasha": "42533be13ad2aa0cf7a98efeeac55c39"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u667a\u6167",
+            "package": "Suzume\u9171",
+            "resource": "szm-10.png",
+            "reshasha": "ac9df25e2623e2a3ab50e016d9dcdb41"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u7ad6\u4e2d\u6307",
+            "package": "Suzume\u9171",
+            "resource": "szm-9.png",
+            "reshasha": "9b5e036955637c7bfda5918e2f87c66a"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u8111\u5b50",
+            "package": "Suzume\u9171",
+            "resource": "szm-8.png",
+            "reshasha": "84e52acef6c0baa83aa8cdbcaa097647"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
+            "name": "\u6495\u6893\u54a9\u840c\u6df7\u8fc7\u5173",
+            "package": "Suzume\u9171",
+            "resource": "szm-7.png",
+            "reshasha": "fdd66f8c63858bbf754755190b45a809"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "condition": "None",
             "name": "\u7a7a\u591c\u559d\u5976\u8336",
             "package": "\u6708\u9690\u7a7a\u591c",
             "resource": "yyky-1.png",
