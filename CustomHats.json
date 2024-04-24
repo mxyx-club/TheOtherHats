@@ -4548,6 +4548,62 @@
             "reshasha": "8818546ba52ffd12bed79b53e64164e3"
         },
         {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u5438gay\u5983",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats032.png",
+            "reshasha": "1255ca0913a04d87fe6a79dc0bc10d02"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u675c\u98842",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats028.png",
+            "reshasha": "337f4de59f2d2078ae8fa89faf177bf3"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u72af\u5927\u5434\u7586\u571f",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats029.png",
+            "reshasha": "d56fd3442335accf27bbea5a4ff8a30d"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u795e\u7518\u5b81\uff08\u6539\uff09",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats030.png",
+            "reshasha": "6c84fb1351d69e0c929fa70a9e1c63c4"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u795e\u8340\u5f672.0",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats031.png",
+            "reshasha": "7390c21dcb46fda9eb974f436c3bef03"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u81e3\u59be\u8981\u544a\u53d1",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats027.png",
+            "reshasha": "5cbd54bc7f016c829e9ea531f3ef2f43"
+        },
+        {
+            "author": "\u9e21\u59d0",
+            "condition": "None",
+            "name": "\u91cd\u5cb3",
+            "package": "\u862d\u4ead\u9dc4\u5e8f",
+            "resource": "hats033.png",
+            "reshasha": "7a346dfaf7f230701e80531016aac24f"
+        },
+        {
             "author": "H",
             "bounce": true,
             "condition": "None",
@@ -4800,6 +4856,14 @@
             "package": "\u8db3\u7403\u56f4\u68cb\u793e",
             "resource": "mxyx12.png",
             "reshasha": "37c4641aaa85b40700362a6115085dfd"
+        },
+        {
+            "author": "\uff1f\uff1f\uff1f",
+            "condition": "None",
+            "name": "\uff1f\uff1f\uff1f",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats026.png",
+            "reshasha": "0b0c8dd02d8ef740ebf0cda4097e088e"
         },
         {
             "author": "\u8db3\u7403\u56f4\u68cb\u793e",
