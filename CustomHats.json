@@ -4621,6 +4621,80 @@
             "reshasha": "88aba7e9d351d0168a9f35320a45be54"
         },
         {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u50f5\u5c38",
+            "package": "PVZ",
+            "resource": "bg35.png",
+            "reshasha": "dc04c434d4e9312290b36032a8276501"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u5411\u65e5\u8475\u5973\u738b",
+            "package": "PVZ",
+            "resource": "bg39.png",
+            "reshasha": "dcb236d173004dc8f6f2c3f5a37da585"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u5bd2\u51b0\u5c04\u624b",
+            "package": "PVZ",
+            "resource": "bg34.png",
+            "reshasha": "6cf88c51272f886fe52ac276c0b7b6a2"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u6b63\u5e38\u7248\u5de8\u4eba\u50f5\u5c38",
+            "package": "PVZ",
+            "resource": "bg40.png",
+            "reshasha": "ead292c5c50b63dfd0e578747eb99628"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u8c4c\u8c46\u5c04\u624b",
+            "package": "PVZ",
+            "resource": "bg38.png",
+            "reshasha": "bcf3536d08f3b5f1c5150ebbef178114"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u8d85\u5927\u7248\u5de8\u4eba\u50f5\u5c38",
+            "package": "PVZ",
+            "resource": "bg31.png",
+            "reshasha": "109db0fade5aa87689069d5adb4bea62"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u8def\u969c\u50f5\u5c38",
+            "package": "PVZ",
+            "resource": "bg36.png",
+            "reshasha": "35cb88e4ff44a3bc1dc360bce911cc07"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u94c1\u901a\u50f5\u5c38",
+            "package": "PVZ",
+            "resource": "bg37.png",
+            "reshasha": "ddffbea4d092e238843678ec9284bb91"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u9ad8\u51b0\u679c\u53f3",
+            "package": "PVZ",
+            "resource": "bg32.png",
+            "reshasha": "812adca0a52a986e7087f1bd063a55e8",
+            "flipresource": "bg33.png",
+            "reshashf": "dedc996b5d0fc6d0439fd574af4a9716"
+        },
+        {
             "author": "\u6708\u697c",
             "condition": "None",
             "name": "\u4e50",
