@@ -4634,7 +4634,17 @@
             "name": "\u5411\u65e5\u8475\u5973\u738b",
             "package": "PVZ",
             "resource": "bg39.png",
-            "reshasha": "dcb236d173004dc8f6f2c3f5a37da585"
+            "reshasha": "419b5944b4eef8374ea0f6c52f9455ba"
+        },
+        {
+            "author": null,
+            "condition": "None",
+            "name": "\u5927\u55b7\u83c7\u548c\u51b0\u55b7\u83c7",
+            "package": "PVZ",
+            "resource": "bg44.png",
+            "reshasha": "3614fbf5b73eddbc2267647ad941b575",
+            "flipresource": "bg44_flip.png",
+            "reshashf": "2f8c490e20133f97eca1fda3d610c2c5"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -4655,10 +4665,46 @@
         {
             "author": "\u51b0\u7cd5",
             "condition": "None",
+            "name": "\u72c2\u91ce\u673a\u67aa",
+            "package": "PVZ",
+            "resource": "bg42.png",
+            "reshasha": "eaf1b7237a70d271ae96609c483eede5"
+        },
+        {
+            "author": null,
+            "condition": "None",
+            "name": "\u8c4c\u8c46\u548c\u51b0\u8c4c\u8c46",
+            "package": "PVZ",
+            "resource": "bg43.png",
+            "reshasha": "66d3190934e16bcafd206d57bab51c25",
+            "flipresource": "bg43_flip.png",
+            "reshashf": "aab752ca8cb21e08b165b8582b018d07"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
             "name": "\u8c4c\u8c46\u5c04\u624b",
             "package": "PVZ",
             "resource": "bg38.png",
             "reshasha": "bcf3536d08f3b5f1c5150ebbef178114"
+        },
+        {
+            "author": null,
+            "condition": "None",
+            "name": "\u8c4c\u8c46\u5c04\u624b\u548c\u5bd2\u51b0\u5c04\u624b",
+            "package": "PVZ",
+            "resource": "bg45.png",
+            "reshasha": "6cf88c51272f886fe52ac276c0b7b6a2",
+            "flipresource": "bg45_flip.png",
+            "reshashf": "bcf3536d08f3b5f1c5150ebbef178114"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u8c4c\u8c46\u8bb8\u613f\u6c60",
+            "package": "PVZ",
+            "resource": "bg41.png",
+            "reshasha": "d72b5285ff373de5d1174676f21dc25a"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -4666,7 +4712,7 @@
             "name": "\u8d85\u5927\u7248\u5de8\u4eba\u50f5\u5c38",
             "package": "PVZ",
             "resource": "bg31.png",
-            "reshasha": "109db0fade5aa87689069d5adb4bea62"
+            "reshasha": "cd0f3f105ad9cfb6c0cbcede96ece9e1"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -4687,12 +4733,20 @@
         {
             "author": "\u51b0\u7cd5",
             "condition": "None",
-            "name": "\u9ad8\u51b0\u679c\u53f3",
+            "name": "\u9999\u84b2",
+            "package": "PVZ",
+            "resource": "bg33.png",
+            "reshasha": "5382003a5b451058c991703e38859f73"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "condition": "None",
+            "name": "\u9ad8\u575a\u679c\u548c\u9ad8\u51b0\u679c",
             "package": "PVZ",
             "resource": "bg32.png",
-            "reshasha": "812adca0a52a986e7087f1bd063a55e8",
-            "flipresource": "bg33.png",
-            "reshashf": "dedc996b5d0fc6d0439fd574af4a9716"
+            "reshasha": "c7c18030fb4d5a2b0a0a1338121782c1",
+            "flipresource": "bg32_flip.png",
+            "reshashf": "0e5506f5a0b9d7c6da6b405abd754113"
         },
         {
             "author": "\u6708\u697c",
