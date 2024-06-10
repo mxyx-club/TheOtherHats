@@ -4637,7 +4637,7 @@
             "reshasha": "419b5944b4eef8374ea0f6c52f9455ba"
         },
         {
-            "author": null,
+            "author": "\u51b0\u7cd5",
             "condition": "None",
             "name": "\u5927\u55b7\u83c7\u548c\u51b0\u55b7\u83c7",
             "package": "PVZ",
@@ -4671,7 +4671,7 @@
             "reshasha": "eaf1b7237a70d271ae96609c483eede5"
         },
         {
-            "author": null,
+            "author": "\u51b0\u7cd5",
             "condition": "None",
             "name": "\u8c4c\u8c46\u548c\u51b0\u8c4c\u8c46",
             "package": "PVZ",
@@ -4689,7 +4689,7 @@
             "reshasha": "bcf3536d08f3b5f1c5150ebbef178114"
         },
         {
-            "author": null,
+            "author": "\u51b0\u7cd5",
             "condition": "None",
             "name": "\u8c4c\u8c46\u5c04\u624b\u548c\u5bd2\u51b0\u5c04\u624b",
             "package": "PVZ",
@@ -4747,6 +4747,142 @@
             "reshasha": "c7c18030fb4d5a2b0a0a1338121782c1",
             "flipresource": "bg32_flip.png",
             "reshashf": "0e5506f5a0b9d7c6da6b405abd754113"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u5361\u7f2a",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi10.png",
+            "reshasha": "5629ef419156065bd882e66997c4772e"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u5361\u7f2a2",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi11.png",
+            "reshasha": "6453896fa38a66362b76a3e775929483"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u54c8\u6492\u97e6",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi06.png",
+            "reshasha": "f534540dd31acf1b67500b679d926635"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u54c8\u66fcsama",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi04.png",
+            "reshasha": "3da98ae9dd011ac7bb7d2bbcbb665c4a"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u54c8\u66fc\u5361\u6069",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi05.png",
+            "reshasha": "3598a6618bf178d35aae383d7e703e67"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u590f\u4e9a\u603b\u5e05",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi16.png",
+            "reshasha": "584fe38536f175144beb906400508ec4"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u590f\u4e9a\u603b\u5e052",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi17.png",
+            "reshasha": "9746877bf1fe9614c373066dc0aa35d1"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u6551\u7953\u5c11\u5973",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi09.png",
+            "reshasha": "4f09c453020fa5daf913f130c68a7b85"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u7070\u6d41\u4e3d",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi08.png",
+            "reshasha": "96015ee1c0a3c511a43dcc5dd9802f82"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u88e4\u889c\u8131\u843d\u5927\u5c09",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi12.png",
+            "reshasha": "da3a7bcd22ab8b47625c43404cb2fe50"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u8d64\u8272\u5f57\u661f",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi03.png",
+            "reshasha": "906e0929be2d5d65d15f1f59f6fee67a"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u963f\u59c6\u7f57",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi01.png",
+            "reshasha": "87e702ca4aecd48e68de03144dcfa4e4"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u963f\u59c6\u7f572",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi02.png",
+            "reshasha": "0393aacb2535385b115591224ee771f5"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u9a6c\u592b\u8482",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi15.png",
+            "reshasha": "48fa9cdd1bdaf553f8f452ad27ac72c4"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u9c81\u838e\u5361\u4eba\u9c7c",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi14.png",
+            "reshasha": "801a3c74cdbf27105c9a09834278a68c"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u9ed1\u9b54\u5973",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi07.png",
+            "reshasha": "aa2df5d0adc2b01c0de298e60bf751b7"
+        },
+        {
+            "author": "\u6a59\u5b50",
+            "condition": "None",
+            "name": "\u9f99\u5973\u4ec6\u5c0f\u84dd",
+            "package": "\u6a59\u5b50",
+            "resource": "chengzi13.png",
+            "reshasha": "50d099c43d12f449b9bd873ebb56761f"
         },
         {
             "author": "\u6708\u697c",
