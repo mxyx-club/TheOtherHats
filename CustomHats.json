@@ -4885,6 +4885,38 @@
             "reshasha": "50d099c43d12f449b9bd873ebb56761f"
         },
         {
+            "author": "\u4e0d\u77e5\u8005",
+            "condition": "None",
+            "name": "\u4e50\u6b63\u7eeb_\u7231\u4e86\u7231\u4e86",
+            "package": "\u4e0d\u77e5\u8005",
+            "resource": "mxyx39.png",
+            "reshasha": "0baf7b71bbe9c61114f5bd6116151ee5"
+        },
+        {
+            "author": "\u4e0d\u77e5\u8005",
+            "condition": "None",
+            "name": "\u4e50\u6b63\u7eeb_\u8d5e",
+            "package": "\u4e0d\u77e5\u8005",
+            "resource": "mxyx40.png",
+            "reshasha": "77c474e460b2be550160170a1841a8a5"
+        },
+        {
+            "author": "\u4e0d\u77e5\u8005",
+            "condition": "None",
+            "name": "\u6d77\u4f0a_\u5531\u6b4c",
+            "package": "\u4e0d\u77e5\u8005",
+            "resource": "mxyx37.png",
+            "reshasha": "6a1c317b38ce0a6a8fd83952ad7fbfa6"
+        },
+        {
+            "author": "\u4e0d\u77e5\u8005",
+            "condition": "None",
+            "name": "\u6d77\u4f0a_\u5f97\u610f",
+            "package": "\u4e0d\u77e5\u8005",
+            "resource": "mxyx38.png",
+            "reshasha": "adced023488b2fbacd5e48546e8d3b7c"
+        },
+        {
             "author": "\u6708\u697c",
             "condition": "None",
             "name": "\u4e50",
