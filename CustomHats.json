@@ -7204,7 +7204,7 @@
         {
             "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
-            "name": "cookie-\u5c0f\u997c\u5e72",
+            "name": "cookie\u7684\u5c0f\u997c\u5e72",
             "package": "\u997c\u5e72\u5c4b",
             "resource": "cookie-1.png",
             "reshasha": "5f9beaa9dd5623648cae020489d33762"
@@ -7248,6 +7248,14 @@
             "package": "\u997c\u5e72\u5c4b",
             "resource": "cookie-6.png",
             "reshasha": "51ab53e589d1d247711b5c6c16c15b19"
+        },
+        {
+            "author": "\u963f\u95e8\u306e\u8461\u8404",
+            "condition": "None",
+            "name": "\u6c38\u70750",
+            "package": "\u997c\u5e72\u5c4b",
+            "resource": "cookie-7.png",
+            "reshasha": "9d37fb7666f8a3384608292487c25d37"
         },
         {
             "author": "KK",
