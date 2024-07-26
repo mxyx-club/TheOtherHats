@@ -6985,11 +6985,11 @@
             "author": "セオノ",
             "package": "SuperNewRoles Hats",
             "condition": "None",
-            "resource": "dragoncolor_adaptive.png",
+            "resource": "dragonSNRcolor_adaptive.png",
             "reshasha": "",
-            "backresource": "dragonscolor_back.png",
+            "backresource": "dragonsSNRcolor_back.png",
             "reshashb": "",
-            "climbresource": "dragonscolor_climb.png",
+            "climbresource": "dragonsSNRcolor_climb.png",
             "reshashc": ""
         },
         {
