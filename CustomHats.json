@@ -83,6 +83,57 @@
             "resource": "Mallöris.png"
         },
         {
+            "author": "R1",
+            "condition": "None",
+            "name": "Drawing",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "drawing_adaptive.png",
+            "reshasha": "35efa8df0cf868cb65653f956420ea02",
+            "climbresource": "drawing_climb_adaptive.png",
+            "reshashc": "9a8e3890e05150eee65ac943e40c2b03",
+            "flipresource": "drawing_flip_adaptive.png",
+            "reshashf": "2f8d97d6050267c382822bcbbbfc5dd2",
+            "adaptive": true
+        },
+        {
+            "author": "R1",
+            "condition": "None",
+            "name": "Flashlight",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "flashlight_adaptive.png",
+            "reshasha": "fd5473a667713c739d5ec3017db44935",
+            "climbresource": "flashlight_climb_adaptive.png",
+            "reshashc": "fe6f0ad304f0d4c832b5244caac7291d",
+            "flipresource": "flashlight_flip_adaptive.png",
+            "reshashf": "eed9938b04f23c440d06d6dc0a6b6ba9",
+            "adaptive": true
+        },
+        {
+            "author": "R1",
+            "condition": "None",
+            "name": "Runner",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "runner_adaptive.png",
+            "reshasha": "902ca8bc3c1c6a73eccc9af0d76c75c6",
+            "climbresource": "runner_climb_adaptive.png",
+            "reshashc": "9e2f961512fec95f151e28714f9a3b07",
+            "flipresource": "runner_flip_adaptive.png",
+            "reshashf": "427f76060392a36bf1e1a767b373c3c2",
+            "adaptive": true
+        },
+        {
+            "author": "R1",
+            "condition": "None",
+            "name": "penguin",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "penguin_bounce_adaptive.png",
+            "reshasha": "5d6ca20b653c53ce88d621594bea1d1b",
+            "climbresource": "penguin_climb_adaptive.png",
+            "reshashc": "7f13625346066ab927781ddfcc3022d8",
+            "bounce": true,
+            "adaptive": true
+        },
+        {
             "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "cookie\u7684\u5c0f\u997c\u5e72",
