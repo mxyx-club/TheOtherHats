@@ -134,6 +134,28 @@
             "adaptive": true
         },
         {
+            "author": "R1",
+            "condition": "None",
+            "name": "Snowman",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "snowman_adaptive.png",
+            "reshasha": "14a53904edc193142b3dc696b55c1628",
+            "climbresource": "snowman_climb_adaptive.png",
+            "reshashc": "fe2862417713571dc1f18fd02b5bfb37",
+            "adaptive": true
+        },
+        {
+            "author": "R1",
+            "condition": "None",
+            "name": "Teddy bear",
+            "package": "TOR \u793e\u533a\u5e3d",
+            "resource": "teddy bear_adaptive.png",
+            "reshasha": "3286bf4621ec37b91d907407f75a70e3",
+            "climbresource": "teddy bear_climb_adaptive.png",
+            "reshashc": "1e06bd5aba57703f34248411303e53b2",
+            "adaptive": true
+        },
+        {
             "author": "\u963f\u95e8\u306e\u8461\u8404",
             "condition": "None",
             "name": "cookie\u7684\u5c0f\u997c\u5e72",
