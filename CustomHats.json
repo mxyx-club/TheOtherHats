@@ -502,6 +502,22 @@
             "reshasha": "92721ddef991eabf6e7ac10f182eaf10"
         },
         {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u7231\u559d\u8584\u8377\u8336\u7684\u5c51\u72d0\u72f8",
+            "package": "MXYX-DIY",
+            "resource": "mxyx42.png",
+            "reshasha": "28c9d7a29f3c4026590d6eaf70d7cc89"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u91ce\u5916\u63a2\u9669\u5c51\u72d0\u72f8",
+            "package": "MXYX-DIY",
+            "resource": "mxyx43.png",
+            "reshasha": "5f5ee2bb3cf917ebe5a5d1e1970500be"
+        },
+        {
             "author": "\u8471\u8471",
             "condition": "None",
             "name": "aa",
