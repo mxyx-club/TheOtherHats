@@ -4402,6 +4402,22 @@
             "reshasha": "09911c01f03728bf6224c5de4961a601"
         },
         {
+            "author": "\u5c0f\u5eb7",
+            "condition": "None",
+            "name": "\u6210\u6b65\u5802",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats081.png",
+            "reshasha": "29486c4c45104b42753a4b6166fca837"
+        },
+        {
+            "author": "\u5c0f\u5eb7",
+            "condition": "None",
+            "name": "\u6cc9\u5948",
+            "package": "\u8db3\u7403\u56f4\u68cb\u793e",
+            "resource": "hats082.png",
+            "reshasha": "af2b64d4b8f63d8c4fbd636520da983b"
+        },
+        {
             "author": "TAT",
             "condition": "None",
             "name": "\u89c9\u9192\u82cd\u6f9c",
