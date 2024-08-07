@@ -222,6 +222,14 @@
         {
             "author": "KK",
             "condition": "None",
+            "name": "Q\u7248KK",
+            "package": "\u997c\u5e72\u5c4b",
+            "resource": "kk-09.png",
+            "reshasha": "8553ec712c439d7cff0da56113568bcb"
+        },
+        {
+            "author": "KK",
+            "condition": "None",
             "name": "\u51cc\u7a7a\u6307",
             "package": "KK",
             "resource": "kk-04.png",
@@ -298,6 +306,24 @@
             "package": "MXYX-DIY",
             "resource": "mxyx4.png",
             "reshasha": "3265b83e4408c07b3e1930b2ace283b1"
+        },
+        {
+            "author": "\u5f66\u7483",
+            "condition": "None",
+            "name": "\u4e91\u7483",
+            "package": "MXYX-DIY",
+            "resource": "yunli.png",
+            "reshasha": "f5303aa6e973ab72c84ef094b3286d26",
+            "flipresource": "yunli_flip.png",
+            "reshashf": "67fe36db997fe84f3c23f35e5ad024ac"
+        },
+        {
+            "author": "\u7c73\u70c1\uff1f",
+            "condition": "None",
+            "name": "\u672a\u82b1",
+            "package": "MXYX-DIY",
+            "resource": "mika.png",
+            "reshasha": "0f02d4fe365ca705560f44ab2801eef9"
         },
         {
             "author": "\u6c34\u7535\u5de5",
