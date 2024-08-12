@@ -531,7 +531,7 @@
             "author": "\u666e\u901a\u72d0\u72f8",
             "condition": "None",
             "name": "\u7231\u559d\u8584\u8377\u8336\u7684\u5c51\u72d0\u72f8",
-            "package": "MXYX-DIY",
+            "package": "\u72d0\u72f8",
             "resource": "mxyx42.png",
             "reshasha": "28c9d7a29f3c4026590d6eaf70d7cc89"
         },
@@ -539,9 +539,57 @@
             "author": "\u666e\u901a\u72d0\u72f8",
             "condition": "None",
             "name": "\u91ce\u5916\u63a2\u9669\u5c51\u72d0\u72f8",
-            "package": "MXYX-DIY",
+            "package": "\u72d0\u72f8",
             "resource": "mxyx43.png",
             "reshasha": "5f5ee2bb3cf917ebe5a5d1e1970500be"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u732b\u732b\u5947\u4e50",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx47.png",
+            "reshasha": "666c3a1a269647c18c8507dd20b5e790"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u732b\u732b\u5976\u5988",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx46.png",
+            "reshasha": "4fa14fefd57de14768f013f921988747"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u732b\u732b\u745f\u7b26",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx48.png",
+            "reshasha": "711ba23ae9f5b0b32453abb20bc78bac"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u732b\u732b\u94a2\u7d22",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx44.png",
+            "reshasha": "05b2239c562f98b47eaf388e44a88c3a"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u8428\u79d1\u7248\u5927\u767d",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx49.png",
+            "reshasha": "fa96bab3173703a0848a0e8e1ba508e4"
+        },
+        {
+            "author": "\u666e\u901a\u72d0\u72f8",
+            "condition": "None",
+            "name": "\u8584\u8377\u8336\uff1f\u4f60\u4e5f\u6709\u4efd",
+            "package": "\u72d0\u72f8",
+            "resource": "mxyx45.png",
+            "reshasha": "66f2de1cdc41c9dd7e43b8048bb11d53"
         },
         {
             "author": "\u8471\u8471",
