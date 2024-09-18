@@ -292,6 +292,62 @@
             "reshasha": "0690977e8eb1d61e7c666406f1a37408"
         },
         {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u5360\u661f",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-6.png",
+            "reshasha": "10de4f6fee62ac5788071bb10fac701c"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u53ec\u5524",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-7.png",
+            "reshasha": "5e46a34f981b23902e7087f863fc9c5b"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u5b66\u8005",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-5.png",
+            "reshasha": "ac169dc7eeb7652850a60b02bbb7832d"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u753b\u5e08",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-3.png",
+            "reshasha": "b0daafac346ca4753a78a97f79a0a10a"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u767d\u9b54",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-1.png",
+            "reshasha": "3dbf3c996fe9e702203b4bb5bfc5aef9"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u8d24\u8005",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-4.png",
+            "reshasha": "7543d5c13674fea73205b2d5a9dc8ebd"
+        },
+        {
+            "author": "\u9ece\u6728",
+            "condition": "None",
+            "name": "\u8d64\u9b54",
+            "package": "\u9ece\u6728",
+            "resource": "FF14-2.png",
+            "reshasha": "5d4b3db28027b75334febc568ef4f6fb"
+        },
+        {
             "author": "\u8471\u8471",
             "condition": "None",
             "name": "80\uff01",
