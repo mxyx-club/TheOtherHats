@@ -155,6 +155,14 @@
             "reshasha": "84e52acef6c0baa83aa8cdbcaa097647"
         },
         {
+            "author": "米烁",
+            "condition": "None",
+            "name": "未花",
+            "package": "MXYX-DIY",
+            "resource": "mika.png",
+            "reshasha": "0f02d4fe365ca705560f44ab2801eef9"
+        },
+        {
             "author": "沫夏悠轩",
             "condition": "None",
             "name": "撕梓咩萌混过关",
@@ -704,7 +712,7 @@
             "author": "小康",
             "condition": "None",
             "name": "成步堂",
-            "package": "足球围棋社",
+            "package": "小康",
             "resource": "hats081.png",
             "reshasha": "29486c4c45104b42753a4b6166fca837"
         },
@@ -712,7 +720,7 @@
             "author": "小康",
             "condition": "None",
             "name": "泉奈",
-            "package": "足球围棋社",
+            "package": "小康",
             "resource": "hats082.png",
             "reshasha": "af2b64d4b8f63d8c4fbd636520da983b"
         },
@@ -720,7 +728,7 @@
             "author": "小康",
             "condition": "None",
             "name": "小康",
-            "package": "足球围棋社",
+            "package": "小康",
             "resource": "hats083.png",
             "reshasha": "f9956a7cb33dcc2db92f4915360412b2"
         },
